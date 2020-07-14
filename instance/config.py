@@ -1,1 +1,1 @@
-SECRET_KEY = 'viewsecret'
+SECRET_KEY = 'forkeeps'
