@@ -1,1 +1,1 @@
-SECRET_KEY = 'forkeeps'
+SECRET_KEY = 'foreveryummy'
